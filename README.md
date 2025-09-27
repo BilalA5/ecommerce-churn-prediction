@@ -10,7 +10,7 @@ This project uses machine learning techniques to predict the likelihood of cart 
 
 The dataset used in this project is from [Kaggle](https://www.kaggle.com/datasets/ritalin56/e-commerce-card-abandonment/data):
 
-> Ritalin56. (n.d.). *E-commerce cart abandonment* [Dataset]. Kaggle. Retrieved September 27, 2025.
+> Ritalin56. (n.d.). *E-commerce cart abandonment* [Dataset]. Kaggle. Retrieved September 14, 2025.
 
 
 ## 🔍 Key Findings
